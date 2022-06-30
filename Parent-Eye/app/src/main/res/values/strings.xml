@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenTime</string>
+    <string name="accessibility_service_description">Accessibility Service</string>
+</resources>
